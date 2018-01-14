@@ -21,7 +21,7 @@ public class ChoiceB {
     System.out.print("BIENVENIDO: " +per.getNAME());
     System.out.println(". Incontables peligrosnte aguardan en tú aventura");
     System.out.println("Se valiente y recuerda. CADA DECISION CUENTA.");
-    for(int i=0;i<3;i++)
+    for(int i=0;i<4;i++)
       System.out.println();
     leer("Act1\\Parte 1\\Act 1.0.txt");
   }
