@@ -1,4 +1,4 @@
-package Choiceb;
+package ChoiceB;
 
 public class Clase {
     
